@@ -1,1 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2022-11-01T07:33:04.982Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26" etag="X0ly6tInltjN71g5w5ex" version="20.4.2" type="github"><diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">7Vptb6M4EP41+XgRYMzLx2263Ttpe6puV9ePkQMOsWIwMk6T3q8/GxwghnajNoFkFaS2ZjzYzDzzjO2hEzBLd984ylePLMZ04ljxbgLuJ45ju1Yg/yjJayXxXS1IOIm1UiP4Qf7DWmhp6YbEuDhQFIxRQfJDYcSyDEfiQIY4Z9tDtSWjh7PmKMEdwY8I0a70mcRipaW2ZTUdf2KSrPTUAdQdCxStE842mZ4vYxmuelK0H0arFisUs21LBL5OwIwzJqpWupthqty691j13MMbvfUrc5yJYx7wQhwt8TKCkWtj14n+sDVGhXjd+wHH0i36tjQF3JXGYTWGJe9WIqWyacsmRQtM72r7Z4wy3jyGs/iLAqaRFIKzde1eaf7dkmXiAaWEqqj5F/MYZUiLdYio9zOt1IYXbMMj/JZpOoYQT7B4QwdUOsrk1sDad98wS7Hgr1KBY4oEeTmMFKQDLqn1Gs/Lhnb+sUBUY74gutGzdIAhaRnBR/h/4oBleUkV/dQ9SRP5UpQs5O+IknyOuJDNDIst42uSqd5nIg3FRTH/h20E5nPbCXbyZ5rL3nYUqKnrUFYhEbGURLrdj/GvwXzBXODduzDoXtfXdNKZxvVgdb9teBtolVWbsdYZgHM6wP2VSd9Jv44A4IyyTXwe2PS7PrGCCMIyKYywMlR2KOSITKTfDQXBctmLKEl61b/ojgUTgqWy4wyhIZel8ULDDn/b5AqOSK7OxSRX0OHog8x0W6SeGpyj+6mHoimvovxNlqYkjpX1NVEpXooemtZ6Z6CpE45IU7cTHT/Rgg6VvyW4uVpsC9kmT+hM2fvzkEHrEDLfGhEy2IHsaTY8XI8sI4Lx+U+2vdzNkg0PcfPGXBG9Lm6clNuCwcHTE18LbO6YsPkXQbdnuYQWAqll61JR84FBNn9E1IIOao9sQSgeBjkhT5LS+ekmk5uIcquh1reV3KpeKniBscJBOCJ4YQe87yhXB6rBafc3FgvG1p9BrfUGVnn140kobWk+lFfPBlfd9414ihCwjaw75iZn/y6/Rwyck7nAMfam9piwHVHKawFlRP2svPqY4wWBfQdkT8JRTHDDAX3834vv5fky0me7jHFlfw8EEq1cvUy6S1Q5f6qPqMVU5ew5Jdl6Xh3cP1OROKr+8AFCv1ua0HvMd0sTepxfliZa8VN/B2gHUC08uoah53hicvfZCmBj6QGhEZmVxfqpJjg7A7nGQI45UOWWzkBllNeGfzDwu6XQW+B/KPBLPe20nm88x7AAXiMLjDTuBvY0hB50bB+ENrDgBzlhFJugFUwtF7h+4HhW4IXGsOdkSLcQeWPIgEvDfltwXawwzpRueBpWBAYr7NFY0S3A3lgxICvcaySFa+b005AiNIZ1RiNFt8R9I8WApPCvkRTQTOknIYX55QeC0UjR/X5wI8WApAiukRSemdJPQwqjUgjd0UjR/TpzI8WApAivkRTmkRichhTGAR7C85BC3jb/M1upN/+TDL7+Dw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-01T07:39:40.728Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26" etag="_JInLechJ1A5-mmNCgNg" version="20.4.2" type="github">
+  <diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">
+    <mxGraphModel dx="1422" dy="1612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QfL149suLyUnm_xPkatL-2" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-380" width="970" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="QfL149suLyUnm_xPkatL-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QfL149suLyUnm_xPkatL-3" target="QfL149suLyUnm_xPkatL-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QfL149suLyUnm_xPkatL-11" value="链路" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QfL149suLyUnm_xPkatL-8">
+          <mxGeometry x="-0.0848" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QfL149suLyUnm_xPkatL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QfL149suLyUnm_xPkatL-3" target="QfL149suLyUnm_xPkatL-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QfL149suLyUnm_xPkatL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QfL149suLyUnm_xPkatL-3" target="QfL149suLyUnm_xPkatL-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QfL149suLyUnm_xPkatL-3" value="" style="image;html=1;image=img/lib/clip_art/networking/power_distribution_unit_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="460" y="-290" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QfL149suLyUnm_xPkatL-5" value="" style="image;html=1;image=img/lib/clip_art/computers/Monitor_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="260" y="-40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QfL149suLyUnm_xPkatL-6" value="" style="image;html=1;image=img/lib/clip_art/computers/Monitor_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="530" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QfL149suLyUnm_xPkatL-7" value="" style="image;html=1;image=img/lib/clip_art/computers/Monitor_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="770" y="10" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QfL149suLyUnm_xPkatL-12" value="节点&lt;br&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-300" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
